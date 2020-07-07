@@ -1,0 +1,35 @@
+.navbar-nav{
+    font-size: 18px;
+    font-weight: 600;
+}
+.container{
+    margin-bottom: 80px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    padding: 7px 30px;
+    border-radius: 10px;
+    outline: none;
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+/* .bg-color{
+    background-color: rgb(233, 220, 233);
+} */
+.card img{
+    padding: 25px 20px;
+}
+.card{
+    border: none;
+    box-shadow: 2px 2px 5px lightgray;
+}
+span{
+    color: rgb(233, 19, 19);
+    font-weight: bold;
+}
+label{
+    font-weight: bold;
+}
